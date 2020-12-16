@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background: linear-gradient(to right, rgb(69, 107, 242), rgb(128, 0, 255));
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
